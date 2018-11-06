@@ -2,3 +2,6 @@
 03-bases-node/tablas/*.txt
 04-to-do-app/node_modules/
 05-clima-mundo/node_modules/
+06-webserver/node_modules/
+06-webserver/.git/
+06-webserver/.gitignore
